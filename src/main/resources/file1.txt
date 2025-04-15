@@ -1,0 +1,7 @@
+ID|FirstName|LastName|Country
+EMP001|John|Doe|Singapore
+EMP002|Jane|Smith|Philippines
+EMP003|Bob|Wilson|India
+EMP004|Sree|Varipalli|
+EMP006|Sree|Varipalli|India
+EMP007|Akshath||

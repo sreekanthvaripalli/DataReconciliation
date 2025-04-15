@@ -1,0 +1,7 @@
+ID|First_Name|Last_Name|Origin_Country
+EMP001|John|Doe|China
+EMP002|Jane|Smith|Philippines
+EMP003|Bob|Wilson|India
+EMP005|Sree|Varipalli|India
+EMP006|Sree|Varipalli|
+EMP007|Sree|Varipalli|India
